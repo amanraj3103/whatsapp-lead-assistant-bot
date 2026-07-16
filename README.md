@@ -1,5 +1,7 @@
 # WhatsApp Lead Assistant Bot
 
+Early Node.js prototype for a WhatsApp lead assistant. This repository represents the first implementation experiment before the workflow was redesigned in n8n.
+
 An AI-powered WhatsApp lead generation and management system built for Dream Axis Travel Solutions. The bot collects lead information through natural conversations, schedules meetings, sends automated reminders, and generates daily reports.
 
 Built with Node.js, Express, and the Twilio WhatsApp Business API. Uses OpenAI GPT for conversational intelligence.
